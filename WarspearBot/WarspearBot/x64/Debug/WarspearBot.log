@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\David\source\repos\WarspearBot\WarspearBot\Source.cpp(149,31): warning C4244: аргумент: преобразование "uintptr_t" в "UINT", возможна потеря данных
+C:\Users\David\source\repos\WarspearBot\WarspearBot\Source.cpp(282): warning C4715: action: значение возвращается не при всех путях выполнения
+  WarspearBot.vcxproj -> C:\Users\David\source\repos\WarspearBot\x64\Debug\WarspearBot.exe

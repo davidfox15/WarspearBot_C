@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\David\Desktop\GitHub\WarspearBot\WarspearBot\Source.cpp(43,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\David\Desktop\GitHub\WarspearBot\WarspearBot\Source.cpp(307): warning C4715: action: значение возвращается не при всех путях выполнения
+  WarspearBot.vcxproj -> C:\Users\David\Desktop\GitHub\WarspearBot\Debug\WarspearBot.exe

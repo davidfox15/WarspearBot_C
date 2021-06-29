@@ -1,0 +1,8 @@
+﻿  Source.cpp
+C:\Users\David\source\repos\WarspearBot\WarspearBot\Source.cpp(43,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\David\source\repos\WarspearBot\WarspearBot\Source.cpp(403,34): error C2664: "BOOL SetConsoleTitleW(LPCWSTR)": невозможно преобразовать аргумент 1 из "const char [15]" в "LPCWSTR"
+C:\Users\David\source\repos\WarspearBot\WarspearBot\Source.cpp(403,18): message : Типы, на которые указывают указатели, не связаны; для преобразования требуется reinterpret_cast, приведение в стиле С или приведение в стиле функции
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\consoleapi2.h(510,1): message : см. объявление "SetConsoleTitleW"
+C:\Users\David\source\repos\WarspearBot\WarspearBot\Source.cpp(405,43): error C2664: "HWND FindWindowW(LPCWSTR,LPCWSTR)": невозможно преобразовать аргумент 2 из "const char [16]" в "LPCWSTR"
+C:\Users\David\source\repos\WarspearBot\WarspearBot\Source.cpp(405,26): message : Типы, на которые указывают указатели, не связаны; для преобразования требуется reinterpret_cast, приведение в стиле С или приведение в стиле функции
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winuser.h(10049,1): message : см. объявление "FindWindowW"
